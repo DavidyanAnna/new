@@ -14,7 +14,6 @@ a{
 
 
 header nav{
-    float: right;
     width: 60%;
     a{
         text-decoration: none;
@@ -76,7 +75,7 @@ header nav ul li.btn a:hover {
 
 .first img {
     position: relative;
-    width:20%;
+    width:40%;
     height: auto;
     left: 35%;
     top: 20%;
