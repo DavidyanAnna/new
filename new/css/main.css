@@ -63,23 +63,23 @@ header nav ul li.btn a:hover {
 }
 
 .first--hello {
-    width: 40%;
+    width: 60%;
     font-size: 20px;
     padding-top: 5%;
     position: relative;
 } 
 
 .first--info {
-    position: absolute;
-    width: 45%;
+    position: relative;
+    width: 60%;
     font-size: 17px;
-    right: -5%;
-    top: 28%;
+    padding-top: 5%;
 }
 
 .first img {
-    position: absolute;
-    width: 20%;
+    position: relative;
+    width:20%;
+    height: auto;
     left: 35%;
     top: 20%;
 }
